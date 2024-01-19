@@ -1,0 +1,19 @@
+--------------------
+Student'name: Steven
+The total credits Steven finish are: 7
+The Subject'name              The numbers of Credits        The Average Score             
+CA                            4                             5.9                           
+OS                            3                             3.8                           
+--------------------
+Student'name: Marry
+The total credits Marry finish are: 4
+The Subject'name              The numbers of Credits        The Average Score             
+DSA                           4                             2                             
+--------------------
+Student'name: Joker
+The total credits Joker finish are: 14
+The Subject'name              The numbers of Credits        The Average Score             
+A                             4                             3.3                           
+B                             2                             1.9                           
+C                             3                             2.2                           
+D                             5                             2.7                           
